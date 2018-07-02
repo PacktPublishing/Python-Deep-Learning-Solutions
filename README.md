@@ -19,7 +19,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This video course is intended for machine learning professionals who are looking to use Deep Learning algorithms to create real-world applications using Python. A thorough understanding of machine learning concepts and Python libraries such as NumPy, SciPy, and scikit-learn is expected. Additionally, a basic knowledge in linear algebra and calculus is desirable.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Python 3
+[Python 3](https://www.python.org/downloads/)
 
 ## Related Products
 * [Data Visualization with Python: The Complete Guide [Video]](https://www.packtpub.com/application-development/data-visualization-python-complete-guide-video?utm_source=github&utm_medium=repository&utm_campaign=9781789536959)
